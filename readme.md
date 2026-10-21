@@ -1256,7 +1256,7 @@ A second view is how many robots measure depth, how operators and surgeons see t
 Rosa Elena Cabiedes' *El Reportero TD* (1953) may predate *El Corazón y la Espada*, but it is known here only through a citation of the FIAF *Journal of Film Preservation*; nothing else about the film or its director was found online.
 
 **Japanese coverage** now reaches the stereo societies, the broadcast era and 1950s cinema.
-One question remains: no source yet shows NHK sending a stereoscopic programme to ordinary home viewers. The documented 1998 Nagano event was a live satellite demonstration to exhibition venues, not regular home television. The 1923 society is known only through a later chronology.
+One question remains: no source yet shows NHK sending a stereoscopic programme to ordinary home viewers. The documented 1998 Nagano event was a public live demonstration, with satellite links to Tokyo venues, not regular home television. The 1923 society is known only through a later chronology.
 
 **Sanskrit sources.**
 Whether older Sanskrit texts discuss binocular depth directly is still open.
