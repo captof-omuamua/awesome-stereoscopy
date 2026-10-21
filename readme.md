@@ -108,6 +108,7 @@ Outside Europe and North America it was made by local studios and court photogra
 - [T. Enami](https://en.wikipedia.org/wiki/T._Enami) - A Meiji-era Japanese photographer whose hand-coloured stereoviews of Japan were distributed internationally, the Japanese side of the same pre-1900 card boom.
 - [Marc Ferrez](https://ims.com.br/por-dentro-acervo/a-fotografia-amadora-e-a-estereoscopia-na-passagem-do-seculo-xix-para-o-xx/) - The Rio de Janeiro photographer who, with his sons Júlio and Luciano, left a large body of black-and-white and colour stereo images. He introduced the Lumière Autochrome to Brazil and used it largely for stereo, mainly with Richard Vérascope cameras. In Portuguese, from the Instituto Moreira Salles.
 - [Siamese prince Luhang Wongsa](https://www.rijksmuseum.nl/en/collection/object/Portret-van-een-Thaise-prins-aangeduid-als-Luhang-Wongsa--2d8645842c2057c6077f130d523b2f04) - A stereoscopic portrait photograph made in Thailand in 1861 and attributed by the Rijksmuseum to Pierre Joseph Rossier.
+- [Prince Alfred](https://www.rct.uk/collection/2917599/photographs-by-prince-alfred) - Took a double stereoscopic box camera on his 1860 South Africa tour; the Royal Collection Trust album of his photographs includes South African views.
 - [Robert Gill](https://www.cca.qc.ca/en/search/details/collection/object/351050) - The CCA catalogues his albumen-silver stereograph of the entrance to the Bibi-ka Maqbara in Aurangabad as made before 1863.
 
 ### Stereo as an instrument
