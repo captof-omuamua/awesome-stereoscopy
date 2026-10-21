@@ -107,6 +107,7 @@ Outside Europe and North America it was made by local studios and court photogra
 - [Maison Bonfils](https://heritage.bnf.fr/bibliothequesorient/en/felix-bonfils-1831-1885) - The Beirut studio Félix Bonfils founded in 1867, the first opened there by a Frenchman. By the early 1870s its catalogue listed some fifteen thousand prints and nine thousand stereoscopic views, from negatives made in Egypt, Palestine, Syria and Greece. Neither English Wikipedia article on the studio or its founder mentions the stereo work; this account is the Bibliothèque nationale de France's.
 - [T. Enami](https://en.wikipedia.org/wiki/T._Enami) - A Meiji-era Japanese photographer whose hand-coloured stereoviews of Japan were distributed internationally, the Japanese side of the same pre-1900 card boom.
 - [Marc Ferrez](https://ims.com.br/por-dentro-acervo/a-fotografia-amadora-e-a-estereoscopia-na-passagem-do-seculo-xix-para-o-xx/) - The Rio de Janeiro photographer who, with his sons Júlio and Luciano, left a large body of black-and-white and colour stereo images. He introduced the Lumière Autochrome to Brazil and used it largely for stereo, mainly with Richard Vérascope cameras. In Portuguese, from the Instituto Moreira Salles.
+- [Robert Gill](https://www.cca.qc.ca/en/search/details/collection/object/351050) - The CCA catalogues his albumen-silver stereograph of the entrance to the Bibi-ka Maqbara in Aurangabad as made before 1863.
 
 ### Stereo as an instrument
 
