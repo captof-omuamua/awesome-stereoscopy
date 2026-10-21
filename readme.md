@@ -1249,7 +1249,7 @@ These are the places this list is weakest, and the contributions most wanted:
 
 **The record is still Western-leaning, though less than it was.**
 [World stereo cinema](#world-stereo-cinema) now runs from the Soviet Union and Japan through Mexico, Argentina, China, Korea, India and Brazil, and [Beyond Europe and North America](#beyond-europe-and-north-america) carries stereo photography in Brazil, Iran, Lebanon and Japan.
-Still underrepresented: the list now includes a stereoscopic portrait from Thailand (1861) and Prince Alfred’s stereoscopic camera tour in South Africa (1860). Further locally made work and regional cinema from Southeast Asia and sub-Saharan Africa remain to be documented.
+Still underrepresented: the list now includes a stereoscopic portrait from Thailand (1861) and Prince Alfred’s stereoscopic camera tour in South Africa (1860). Further locally made work and regional cinema from Southeast Asia and sub-Saharan Africa remain to be documented. Still missing are citable sources on the Chinese 3D wave of the 1980s and nineteenth-century stereo photography by Indian practitioners.
 Contributions in any language are wanted; cite what you can.
 
 **AI and robotics** are barely covered.
