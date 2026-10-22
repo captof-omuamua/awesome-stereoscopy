@@ -13,6 +13,7 @@ Every figure here names its source (FFmpeg's code, the Linux kernel, the cited p
 | [Frame packing and HDMI timings](frame-packing-and-hdmi-timings.md) | The eight HDMI 1.4 stereo structures grouped by what survives of each eye; the 1080p and 720p frame-packing rasters; the Vendor-Specific InfoFrame byte by byte, as Linux packs it | [Every HDMI 1.4 stereo structure](../readme.md#every-hdmi-14-stereo-structure) |
 | [Stereo 3D plus Deep Color on HDMI](stereo-deep-colour-link-budget.md) | How stereo timing, RGB/YCbCr, bits per component, AVI/VSIF/GCP packets and TMDS character rate combine; the 225 MHz HX855 link budget; what the 22-step run-34 record and photographs prove | [Every HDMI 1.4 stereo structure](../readme.md#every-hdmi-14-stereo-structure) and [Evidence ledger](../readme.md#evidence-ledger) |
 | [Stereo camera geometry](stereo-camera-geometry.md) | Disparity and parallax; the 1/30 rule; the parallax budget worked from the scene's depth range to the largest baseline; parallel, toe-in and beam-splitter rigs | [Two identical cameras in a rig](../readme.md#two-identical-cameras-in-a-rig) |
+| [Field-sequential preservation](field-sequential-preservation.md) | Field dominance versus eye order; synchronized versus staggered capture; sample-preserving packing and exact cadence, with an executable synthetic verification | [Can field-sequential 3D be saved?](../readme.md#can-field-sequential-3d-be-saved) |
 | [From a VR engine to a 3D display](vr-to-3d-display-pipeline.md) | How a headset's two eyes reach a 3D television: frustums that meet at the screen, the HUD at zero parallax, packing, and the open projects that do it today | [Open software for headsets](../readme.md#open-software-for-headsets) |
 
 ## Reference
@@ -24,5 +25,5 @@ Every figure here names its source (FFmpeg's code, the Linux kernel, the cited p
 
 ## How these pages were made
 
-The guides were Daniel's requests, drafted by Gemini inside Google Jules and corrected against their sources before merge; [PROVENANCE.md](../PROVENANCE.md) has the full account.
+The original five guides were Daniel's requests, drafted by Gemini inside Google Jules and corrected against their sources before merge; [PROVENANCE.md](../PROVENANCE.md) has the full account.
 Corrections follow the same rule as the list: a claim without a source it can be checked against does not stay.
