@@ -1,0 +1,33 @@
+name: Field-sequential preservation
+
+on:
+  pull_request:
+    paths:
+      - 'readme.md'
+      - 'docs/field-sequential-preservation.md'
+      - '.github/scripts/verify_fieldseq.py'
+      - '.github/workflows/fieldseq-preservation.yml'
+  push:
+    branches: [main]
+    paths:
+      - 'readme.md'
+      - 'docs/field-sequential-preservation.md'
+      - '.github/scripts/verify_fieldseq.py'
+      - '.github/workflows/fieldseq-preservation.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install FFmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends ffmpeg
+      - name: Verify pixels, eye order and cadence
+        run: python3 .github/scripts/verify_fieldseq.py
