@@ -39,7 +39,7 @@ For a source sampled once per field, the difference between adjacent eye samples
 | 60000/1001 | 30000/1001 | 1001/60 ms, approximately 16.683 ms |
 | 60 | 30 | approximately 16.667 ms |
 
-Those intervals describe the staggered fixture below, not a deduction about every real recording.
+Those intervals apply when the eyes were sampled successively, not to every recording with sequential storage.
 Presentation timestamps alone do not establish camera exposure times.
 
 Motion matters: if the test object's right-eye position is six pixels to the right of its left-eye position at the same capture time, and it moves two pixels per field, a later right-eye exposure yields an eight-pixel difference.
