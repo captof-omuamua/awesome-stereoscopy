@@ -1,11 +1,13 @@
 # Provenance
 
 This work was developed with AI partners: coding agents that work alongside Daniel Campos Ramos, who directs the work and verifies every claim and result.
-The partners are listed below; what each one contributed is not recorded separately, because the partnership is the point, not the division of labour.
+The partners are listed below; selected project contributions are recorded where they help establish provenance, as part of the partnership rather than as a division of labour.
 
 All partners were reached through the **Claude CLI** or the **Codex CLI**.
 For the 2026 frame-packing persistence and standards pass, **Kimi K3 worked inside Claude CLI** on the initial FFmpeg code-path and fixture investigation, and **OpenAI Codex** performed the independent decoder-lifetime review, threading audit, regression-test construction and standards/provenance pass.
 Daniel directed the work and verified the claims and measured results.
+
+For the field-sequential preservation guide and its synthetic RGB Python/FFmpeg verification, **OpenAI Codex** researched the format behaviour, wrote the source-linked guide and authored checks for pixel samples, eye order, cadence and timestamps. Daniel independently ran the three test groups against FFmpeg 9.0.2 as shipped in Sparky Stereo OS and reports that they passed. The synthetic fixtures verify packing and timestamps; they do not establish exposure timing in real cameras.
 
 The federated Signal Ledger was designed through the real ACIG/MVCIC partner chain (Kimi K3, GLM, DeepSeek, Nemotron and Gemma completed; Qwen's lane returned HTTP 410), implemented by OpenAI Codex, and adversarially reviewed by another Codex partner.
 Those reviews are design provenance, not physical evidence.
