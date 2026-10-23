@@ -25,5 +25,7 @@ Every figure here names its source (FFmpeg's code, the Linux kernel, the cited p
 
 ## How these pages were made
 
-The four original guides—Anaglyph mathematics, Frame packing and HDMI timings, Stereo camera geometry, and From a VR engine to a 3D display—were drafted by Gemini inside Google Jules and checked against their sources. The two later guides were authored by OpenAI Codex; [PROVENANCE.md](../PROVENANCE.md) records their contributions.
+The first five guides were Daniel's requests: four drafted by Gemini inside Google Jules and the fifth by OpenAI Codex, each corrected against its sources before merge.
+The sixth, on field-sequential preservation, was contributed by Sisir (captof-omuamua) with OpenAI Codex and checked the same way.
+[PROVENANCE.md](../PROVENANCE.md) has the full account.
 Corrections follow the same rule as the list: a claim without a source it can be checked against does not stay.
