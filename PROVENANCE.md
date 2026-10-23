@@ -7,6 +7,8 @@ All partners were reached through the **Claude CLI** or the **Codex CLI**.
 For the 2026 frame-packing persistence and standards pass, **Kimi K3 worked inside Claude CLI** on the initial FFmpeg code-path and fixture investigation, and **OpenAI Codex** performed the independent decoder-lifetime review, threading audit, regression-test construction and standards/provenance pass.
 Daniel directed the work and verified the claims and measured results.
 
+For the field-sequential preservation guide and its verification, contributor Sisir (captof-omuamua) worked with OpenAI Codex, which researched the format behaviour, wrote the source-linked guide and authored the checks for pixel samples, eye order, cadence and timestamps. Daniel ran the three test groups against the FFmpeg 9.0.2 shipped in Sparky Stereo OS, and they passed. The synthetic fixtures verify packing and timestamps; they do not establish exposure timing in real cameras.
+
 The federated Signal Ledger was designed through the real ACIG/MVCIC partner chain (Kimi K3, GLM, DeepSeek, Nemotron and Gemma completed; Qwen's lane returned HTTP 410), implemented by OpenAI Codex, and adversarially reviewed by another Codex partner.
 Those reviews are design provenance, not physical evidence.
 Daniel remains the named observer for sink behaviour; this list stores only semantic hashes and authority expectations for canonical claims in `sony-bravia-linux`.

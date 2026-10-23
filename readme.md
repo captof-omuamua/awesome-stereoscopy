@@ -945,8 +945,10 @@ The devices that truly needed interlaced 3D are the analog ones, CRT televisions
 **Can field-sequential 3D be saved?**
 Yes, as content.
 A field-sequential recording converts with stock FFmpeg: [`separatefields`](https://ffmpeg.org/ffmpeg-filters.html#separatefields) splits each frame into its fields in the stream's own order, and [`stereo3d`](https://ffmpeg.org/ffmpeg-filters.html#stereo3d) with input `al` (left eye in the first field, or `ar` when it is the second) pairs them.
-Top-and-bottom is the natural packing, because each field is already one eye at full width; side-by-side works too but halves the width again.
-Each eye keeps half the lines, and fifty or sixty fields become twenty-five or thirty stereo pairs a second, but both views come from the same instant and nothing is invented.
+Top-and-bottom stacks the half-height field images; full side-by-side can retain their full widths too.
+How much horizontal detail survives depends on any later resizing to the target raster.
+Each eye keeps half the lines, and fifty or sixty fields become twenty-five or thirty stereo pairs a second; repacking preserves any original time difference between eye captures rather than making them simultaneous.
+[Pixel, timing and eye-order tests](docs/field-sequential-preservation.md) cover synchronized and staggered synthetic sources, both field orders and both first-eye orders.
 Encode with x264's `frame-packing` option and the SEI that lets a 3D television switch itself is written too.
 The chain is [checked frame by frame](https://github.com/danielcamposramos/sony-bravia-linux/blob/main/tools/fieldseq-3d/verify-fieldseq-to-sbs.sh) on synthetic clips of both field orders, and on a real field-sequential DVD it [switched a 2011 Sony BRAVIA into 3D by itself](https://github.com/danielcamposramos/sony-bravia-linux/blob/main/docs/legacy-3d-formats.md#why-field-sequential-needs-the-high-refresh), with the depth the right way round.
 
